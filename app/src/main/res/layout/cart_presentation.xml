@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="18dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/poster_present"
+        android:layout_width="120dp"
+        android:layout_height="160dp"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/poster" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="8dp"
+        app:layout_constraintBottom_toBottomOf="@+id/poster_present"
+        app:layout_constraintStart_toEndOf="@+id/poster_present"
+        app:layout_constraintTop_toTopOf="@+id/poster_present">
+
+        <TextView
+            android:id="@+id/title_present"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="inception"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:layout_margin="6dp"
+            app:layout_constraintStart_toEndOf="@+id/imageView5"
+            app:layout_constraintTop_toTopOf="@+id/imageView5" />
+
+        <TextView
+            android:id="@+id/year_present"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="6dp"
+
+            android:text="kjfkfgk"
+            app:layout_constraintStart_toEndOf="@+id/imageView5"
+            app:layout_constraintTop_toBottomOf="@+id/title_present" />
+
+        <TextView
+            android:id="@+id/rate_present"
+            android:layout_margin="6dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5.8"
+            app:layout_constraintStart_toEndOf="@+id/imageView5"
+            app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

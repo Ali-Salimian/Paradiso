@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.paradiso.movie.home.HomeFragment">
+
+    <androidx.core.widget.NestedScrollView
+        android:id="@+id/nestedScroll_parent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+<!--            <com.google.android.gms.ads.AdView-->
+<!--                android:id="@+id/adView"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_alignParentTop="true"-->
+<!--                android:layout_centerHorizontal="true"-->
+<!--                app:adSize="BANNER"-->
+<!--                app:adUnitId="ca-app-pub-3940256099942544/6300978111"-->
+<!--                app:layout_constraintEnd_toEndOf="parent"-->
+<!--                app:layout_constraintStart_toStartOf="parent"-->
+<!--                app:layout_constraintTop_toTopOf="parent" />-->
+
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/watchList_recycler"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/adView"
+
+                android:background="@color/black"
+                android:orientation="horizontal"
+                app:layout_constraintTop_toBottomOf="@+id/adView" />
+
+
+            <TextView
+                android:id="@+id/textView_watchlist"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+
+                android:layout_below="@+id/adView"
+
+                android:layout_alignBottom="@+id/watchList_recycler"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true"
+                android:background="@drawable/custom_rounded_corner_white"
+                android:elevation="5dp"
+                android:paddingStart="8dp"
+                android:paddingTop="4dp"
+                android:paddingEnd="8dp"
+
+                android:paddingBottom="4dp"
+                android:text="Watchlist"
+                android:textSize="14sp"
+                app:layout_constraintBottom_toBottomOf="@+id/watchList_recycler"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/watchList_recycler"
+                app:layout_constraintTop_toBottomOf="@+id/adView"
+                app:layout_constraintVertical_bias="0.918" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recycler_view_home"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/watchList_recycler"
+                app:layout_constraintTop_toBottomOf="@+id/watchList_recycler" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </androidx.core.widget.NestedScrollView>
+
+
+    <LinearLayout
+        android:id="@+id/trans_lin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha=".8"
+        android:background="@drawable/custom_white_background"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:orientation="horizontal">
+
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/progress_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+<!--    <com.google.android.material.appbar.AppBarLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:id="@+id/bar"-->
+<!--        android:background="?android:attr/windowBackground"-->
+<!--        >-->
+
+<!--        <androidx.appcompat.widget.Toolbar-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:id="@+id/toolBar"-->
+<!--            android:background="?android:attr/windowBackground">-->
+
+<!--            <RelativeLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content">-->
+
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Movies"/>-->
+<!--            </RelativeLayout>-->
+
+
+
+<!--        </androidx.appcompat.widget.Toolbar>-->
+
+
+<!--    </com.google.android.material.appbar.AppBarLayout>-->
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

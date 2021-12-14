@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "471818786151",
+    "firebase_url": "https://movie-257a9-default-rtdb.firebaseio.com",
+    "project_id": "movie-257a9",
+    "storage_bucket": "movie-257a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471818786151:android:9aac21739d0295ecd38bc2",
+        "android_client_info": {
+          "package_name": "com.example.movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471818786151-tjnp28vvg0otnacnigh43te2dj1fk1iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwoWvafih3Lq7-uNlZdOx7QOKTg5m7lUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471818786151-tjnp28vvg0otnacnigh43te2dj1fk1iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471818786151:android:3e23d43c99a01da0d38bc2",
+        "android_client_info": {
+          "package_name": "com.paradiso.movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471818786151-tjnp28vvg0otnacnigh43te2dj1fk1iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwoWvafih3Lq7-uNlZdOx7QOKTg5m7lUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471818786151-tjnp28vvg0otnacnigh43te2dj1fk1iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.paradiso.movie">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo_edit"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo_edit"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Movie.NoActionBar">
+        <activity
+            android:name="com.paradiso.movie.profile.EditItemOfProfile"
+            android:exported="true" />
+        <activity
+            android:name="com.paradiso.movie.login_signUp.GettingUserId"
+            android:exported="true" />
+        <activity
+            android:name="com.paradiso.movie.login_signUp.NoInternetActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.paradiso.movie.login_signUp.InstructionActivity"
+            android:exported="true" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713" />
+
+        <activity
+            android:name="com.paradiso.movie.login_signUp.RestPasswordActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.paradiso.movie.search.CreateGroup"
+            android:exported="true" />
+        <activity
+            android:name="com.paradiso.movie.MainActivity"
+            android:exported="true"
+            />
+        <activity
+            android:name="com.paradiso.movie.profile.EditProfileActivity"
+            android:exported="true" /> <!-- <activity android:name=".follower.PeopleSearch"></activity> -->
+        <!-- <activity -->
+        <!-- android:name=".search.SearchTabs" -->
+        <!-- android:theme="@style/Theme.Movie.NoActionBar" -->
+        <!-- > -->
+        <!-- </activity> -->
+        <activity android:name="com.paradiso.movie.login_signUp.SignUp" />
+        <activity android:name="com.paradiso.movie.login_signUp.Login" />
+        <activity android:name="com.paradiso.movie.SelectedMovie" />
+        <activity
+            android:name="com.paradiso.movie.search.PopActivity"
+            android:theme="@style/AppTheme.PopMe" />
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat" />
+        <activity
+            android:exported="true"
+            android:name="com.paradiso.movie.login_signUp.SplashActivity"
+            android:theme="@style/SplashStyle">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

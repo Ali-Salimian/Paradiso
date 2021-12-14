@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable-hdpi/custom_rounded_corner_white_noBoun.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable-hdpi/custom_rounded_white_no_boundry.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable-mdpi/button_border_black.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable-v23/button_border_black_gray.xml" value="0.1890625" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable-v23/custom_rounded_corner_white_dark_mode.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable-v23/spash_background.xml" value="0.12777777777777777" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable-v23/spash_background_reserve.xml" value="0.2625" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable-xhdpi/custom_left_rounded_corner_white.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable-xxhdpi/button_border_black_dark_mode.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable-xxhdpi/button_border_red_dark_mode.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable-xxhdpi/custom_dark_background_dark_mode.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable-xxhdpi/custom_dark_mode.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable-xxhdpi/custom_left_rounded_corner_dark_mode.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable-xxhdpi/custom_rounded_corner_white_dark_mode2.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable-xxhdpi/ic_bookmark_border_red_dark_mode.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable-xxxhdpi/custom_white_background.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable/button_border.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable/cart_follower.xml" value="0.2828125" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable/cart_popup_list.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable/custom_rounded_corner.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable/custom_rounded_corner_white.xml" value="0.275" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable/ic_arrow_back.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable/ic_baseline_bookmark_24.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable/ic_follower.xml" value="0.2828125" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable/ic_search.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable/icon.xml" value="0.33" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable/icon_white.xml" value="0.2786458333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable/second_view_holder_movie_adapter.xml" value="0.2015625" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/drawable/spash_background.xml" value="0.12777777777777777" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout-v23/activity_selected_movie_activitiy.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout-v26/activity_instruction.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout-v26/cart_view2.xml" value="0.5" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout-v26/horizon_recycler_cart.xml" value="0.75" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_create_group.xml" value="0.33" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_edit_item_of_profile.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_edit_profile.xml" value="0.6914212548015365" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_follower.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_getting_user_id.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_instruction.xml" value="0.5" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_login.xml" value="0.40024038461538464" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_main2.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_no_internet.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_orginized_group_presentation.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_pop_up.xml" value="0.1" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_profile.xml" value="0.2698158526821457" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_rest_pasword.xml" value="0.22" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_search.xml" value="0.1" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_search_movies.xml" value="0.1" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_selected_movie.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_selected_movie_activitiy.xml" value="0.2" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_signup.xml" value="0.40024038461538464" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/activity_splash.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/cart_follower.xml" value="0.7045735475896168" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/cart_image_serach.xml" value="0.18" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/cart_item_main_profile.xml" value="0.2109375" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/cart_item_profile.xml" value="0.33" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/cart_people_who_insert.xml" value="0.196875" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/cart_popup_list.xml" value="0.67" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/cart_presentation.xml" value="0.33" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/cart_second_view_holder_movie_adapter.xml" value="0.1" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/cart_view.xml" value="0.25" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/cart_view2.xml" value="0.33" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/cart_view_1.xml" value="0.31542056074766356" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/cart_watchlist.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/fragment_follower.xml" value="0.33" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/fragment_followers_list.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/fragment_followings_list.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/fragment_group_presentation.xml" value="0.33" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/fragment_home.xml" value="0.41386138613861384" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/fragment_people.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/fragment_people_who_insert_top_rated.xml" value="0.196875" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/fragment_pre_search_.xml" value="0.1546875" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/fragment_pre_search_follower.xml" value="0.15" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/fragment_search.xml" value="0.25" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/fragment_search_movies.xml" value="0.159375" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/fragment_search_tabs.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/fragment_selected_movie.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/grid_item.xml" value="0.9" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/horiz_genre_cart.xml" value="1.0" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/horizon_actor_cart.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/horizon_recycler_cart.xml" value="0.33" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/navigation_bar.xml" value="0.1" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/popup_window.xml" value="0.33" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/popup_window_profile.xml" value="0.5" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/popup_window_profile_setting.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/search_cart.xml" value="0.5" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/search_fragment.xml" value="0.13949275362318841" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/second_view_holder_movie_adapter.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/shimmer_placeholder_layout.xml" value="0.25" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/layout/user_caed_search.xml" value="0.13949275362318841" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/menu/delete_menu.xml" value="0.1984375" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/menu/menu.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/ali/AndroidStudioProjects/movie/app/src/main/res/menu/menu_pop.xml" value="0.23177083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

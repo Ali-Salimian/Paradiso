@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/search"
+          android:title="@string/movies"
+          android:icon="@drawable/icon_white"/>
+    <item android:id="@+id/profile"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_profile"/>
+    <item android:id="@+id/follower"
+        android:title="@string/others"
+        android:icon="@drawable/ic_others_add_black"/>
+
+
+</menu>
